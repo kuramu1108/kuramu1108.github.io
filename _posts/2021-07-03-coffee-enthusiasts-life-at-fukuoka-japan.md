@@ -11,7 +11,6 @@ subclass: 'post'
 author: po
 ---
 
-Coffee Enthusiast's Life @ Fukuoka, Japan
 Hi everyone, this is Po from the Development centre
 
 I am glad to be able to introduce how I enjoy my WFH life during pandemics.

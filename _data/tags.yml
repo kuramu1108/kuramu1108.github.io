@@ -1,9 +1,8 @@
 coffee:
   name: coffee
-  description: A series of wahtever related to coffee
+  description: A series of whatever related to coffee
   cover: assets/images/coffee-cover.jpg
 fukuoka:
   name: fukuoka
   description: Life in Fukuoka
   cover: False
-  

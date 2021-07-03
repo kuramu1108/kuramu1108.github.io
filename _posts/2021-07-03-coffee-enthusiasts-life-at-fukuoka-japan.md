@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/coffee-cover.jpg
 navigation: True
 title: Coffee Enthausiast's Life @ Fukuoka, Japan
-date: 2021-07-3 10:00:00
+date: 2021-07-03 00:00:00
 tags: [coffee, fukuoka]
 class: post-template
 subclass: 'post'

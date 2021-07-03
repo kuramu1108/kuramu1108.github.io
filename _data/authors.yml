@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+po:
+  username: kuramu1108
+  name: Po-Hao Chen
+  location: Fukuoka, Japan
+  url_full: https://github.com/kuramu1108/
+  url: github.com/kuramu1108
+  bio: Android Dev @ LINE Fukuoka
+  picture: assets/images/po.jpg
+  facebook: False
+  twitter: kuramu1108
+  cover: False

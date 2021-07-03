@@ -5,7 +5,6 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: '/'
 url: https://pocraft.dev
 
@@ -73,7 +72,7 @@ repo: kuramu1108.github.io
 branch: main
 relative_source: ../pocraft.dev/
 destination: _site
-production_url:  https://pocraft.dev/
+production_url:  https://pocraft.dev
 source_url:  https://github.com/kuramu1108/kuramu1108.github.io
 
 exclude:

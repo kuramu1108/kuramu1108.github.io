@@ -5,8 +5,8 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
-baseurl: '/'
 url: https://pocraft.dev
+baseurl: '/'
 
 # Website info
 title: Po Craft
@@ -65,15 +65,15 @@ feed:
 # repo defaults to USERNAME.github.io
 # Branch defaults to "source" for USERNAME.github.io
 # or "master" otherwise
-safe: False
-lsi: False
-username: kuramu1108
-repo: kuramu1108.github.io
-branch: main
-relative_source: ../pocraft.dev/
-destination: _site
-production_url:  https://pocraft.dev
-source_url:  https://github.com/kuramu1108/kuramu1108.github.io
+# safe: False
+# lsi: False
+# username: kuramu1108
+# repo: kuramu1108.github.io
+# branch: main
+# relative_source: ../pocraft.dev/
+# destination: _site
+# production_url:  https://pocraft.dev
+# source_url:  https://github.com/kuramu1108/kuramu1108.github.io
 
 exclude:
   - assets/css

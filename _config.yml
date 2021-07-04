@@ -5,10 +5,6 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
-baseurl: /blog/
-url: https://pocraft.dev
-
-
 # Website info
 title: Po Craft
 description: The professional publishing platform
@@ -17,6 +13,9 @@ logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: pocraft.dev #add cname for website to be created
+
+baseurl: '/'
+url: 'https://pocraft.dev'
 
 # Social info
 navigation: True # show the navbar links
@@ -71,7 +70,6 @@ feed:
 username: kuramu1108
 repo: kuramu1108.github.io
 branch: main
-relative_source: ../pocraft.dev/
 destination: _site
 production_url:  https://pocraft.dev/
 source_url:  https://github.com/kuramu1108/kuramu1108.github.io

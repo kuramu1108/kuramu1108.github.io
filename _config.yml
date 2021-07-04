@@ -5,8 +5,9 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 words_per_minute: 200
 
+baseurl: /blog/
 url: https://pocraft.dev
-baseurl: '/'
+
 
 # Website info
 title: Po Craft

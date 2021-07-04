@@ -67,13 +67,13 @@ feed:
 # or "master" otherwise
 # safe: False
 # lsi: False
-# username: kuramu1108
-# repo: kuramu1108.github.io
-# branch: main
-# relative_source: ../pocraft.dev/
-# destination: _site
-# production_url:  https://pocraft.dev
-# source_url:  https://github.com/kuramu1108/kuramu1108.github.io
+username: kuramu1108
+repo: kuramu1108.github.io
+branch: main
+relative_source: ../pocraft.dev/
+destination: _site
+production_url:  https://pocraft.dev/
+source_url:  https://github.com/kuramu1108/kuramu1108.github.io
 
 exclude:
   - assets/css
